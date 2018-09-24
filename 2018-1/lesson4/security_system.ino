@@ -9,7 +9,7 @@
  * 1 1N4001 Diode
  * 1 HC-SR505 Motion Sensor
  * 1 push button
- * 1 5V Boost Converter (Custom Built 3.3v in to 5v out)
+ * 1 5V Boost Converter -- Attach the VIN to the side of the breadboard with 3.3 volts from the electron, attach the OUT to the other side of the breadboard to create a 5V rail.
  * Particle Electron
  * Bread Board
  * Wires (as needed)
