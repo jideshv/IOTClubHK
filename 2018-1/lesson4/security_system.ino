@@ -3,7 +3,8 @@
  * Needs:
  * 4 White LEDs
  * 2 LEDs any color
- * 4 100 Ohm resistors
+ * 2 100 Ohm resistors
+ * 2 1K Ohm resistors
  * 2 3904 NPN Transistors
  * 1 8 Ohm 0.3 watt speaker
  * 1 1N4001 Diode
