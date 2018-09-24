@@ -4,6 +4,7 @@
  * 1 Servo S90
  * LED
  * 220 Ohm Resistor
+ * 1 5V Boost Converter -- Attach the VIN to the side of the breadboard with 3.3 volts from the electron, attach the OUT to the other side of the breadboard to create a 5V rail.
  * Particle Electron
  * Bread Board
  * Wires (as needed)
